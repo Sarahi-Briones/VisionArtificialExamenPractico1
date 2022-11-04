@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\LatitudeE5450\Documents\ESCOM Inteligencia Artificial\5to Semestre\Visión artificial\Intento2\Intento2\Source.cpp(119,23): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\LatitudeE5450\Documents\ESCOM Inteligencia Artificial\5to Semestre\Visión artificial\Intento2\Intento2\Source.cpp(134,15): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\LatitudeE5450\Documents\ESCOM Inteligencia Artificial\5to Semestre\Visión artificial\Intento2\Intento2\Source.cpp(172,16): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\LatitudeE5450\Documents\ESCOM Inteligencia Artificial\5to Semestre\Visión artificial\Intento2\Intento2\Source.cpp(181,19): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\LatitudeE5450\Documents\ESCOM Inteligencia Artificial\5to Semestre\Visión artificial\Intento2\Intento2\Source.cpp(188,54): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\LatitudeE5450\Documents\ESCOM Inteligencia Artificial\5to Semestre\Visión artificial\Intento2\Intento2\Source.cpp(198,20): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  Intento2.vcxproj -> C:\Users\LatitudeE5450\Documents\ESCOM Inteligencia Artificial\5to Semestre\Visión artificial\Intento2\x64\Debug\Intento2.exe
